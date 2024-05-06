@@ -11,7 +11,7 @@ Este proyecto es una simple REST API desarrollada en Node.js utilizando Express 
 - **Ver Tareas hechas**: Ver las tareas ya realizadas.
 - **Ver Tareas pendientes**Ver las tareas que estan pendientes.
 
-## Instalació
+## Instalación
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias utilizando npm:
 
