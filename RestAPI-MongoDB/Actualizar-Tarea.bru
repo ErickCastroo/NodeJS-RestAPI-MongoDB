@@ -1,0 +1,19 @@
+meta {
+  name: Actualizar-Tarea
+  type: http
+  seq: 4
+}
+
+put {
+  url: http://localhost:3000/api/tareas/663947b7b8386b4ea42978fa
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "titulo" :"Actualiza",
+    "descripcion" :"Tarea Actualizada",
+    "estado" : "false"
+  }
+}
